@@ -4,7 +4,7 @@ Binome PERRIN Baptiste - SCHNEIDER Leo
 
 Extensions implementes :
 
-Nous avons choisi d'implementer comme premiere extension un editeur de niveau graphique permettant de creer et enregistrer ses propres cartes, puis dans un second temps un menu permettant de choisir entre jouer, avec un second menu de selection des niveaux, ou utiliser l'editeur.
+Nous avons choisi d'implementer comme première extension un editeur de niveau graphique permettant de créer et enregistrer ses propres cartes, puis dans un second temps un menu permettant de choisir entre jouer, avec un second menu de selection des niveaux, ou utiliser l'editeur.
 
 
 Organisation du programme :
@@ -19,7 +19,7 @@ Notre principal choix technique durant cette phase a ete de nous faciliter l'ecr
 
 Problemes rencontres :
 
-Nous n'avons pas vraiment rencontres de reel probleme, si ce n'est une variable nommee de la meme maniere qu'une une fonction integree a Python, et qui a pose un tres court probleme. Nous avons egalement du modifier certaines fonctions gerant la carte datant de la precedente phase afin de les faire fonctionner non plus avec un argument precise dans une ligne de commande mais avec une selection issue du menu.
+Nous n'avons pas vraiment rencontres de réel probleme, si ce n'est une variable nommee de la meme maniere qu'une une fonction integree a Python, et qui a pose un tres court probleme. Nous avons egalement du modifier certaines fonctions gerant la carte datant de la precedente phase afin de les faire fonctionner non plus avec un argument precise dans une ligne de commande mais avec une selection issue du menu.
 
 
 Source des sprites et images utilises, ainsi que de certaines cartes :
